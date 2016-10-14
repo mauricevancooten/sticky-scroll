@@ -6,26 +6,26 @@ A JavaScript module for sticking elements to the top of the page on scroll.
 
 1. Link stylesheet
 
-		&lt;!-- Put these into the <head> --&gt;
-			<link rel="stylesheet" href="sticky-scroll.css">
+				<!-- Put these into the <head> -->
+				<link rel="stylesheet" href="sticky-scroll.css">
 
 2. Add Markup
 
-		&lt;div class="top"&gt;
-			<!-- Sticky content -->
-		&lt;/div&gt;
+				<div class="top">
+					<!-- Sticky content -->
+				</div>
 
 3. Link JavaScript and trigger script 
 
-		&lt;!-- Put this right before the </body> closing tag --&gt;
-			<script>
-		  	var stickyScroll = StickScroll('.top');
-			</script>
+				<!-- Put this right before the </body> closing tag -->
+				<script>
+			  	var stickyScroll = StickScroll('.top');
+				</script>
 
 4. Customisable offset
 Second argument is the offset pixels from the top of the browser window.
 
-		var stickyScroll = StickScroll('.top', 120);
+				var stickyScroll = StickScroll('.top', 120);
 
 ## Licence
 
