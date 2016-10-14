@@ -11,9 +11,9 @@ A JavaScript module for sticking elements to the top of the page on scroll.
 
 2. Add Markup
 
-	<div class="top">
+	&lt;div class="top"&gt;
 		<!-- Sticky content -->
-	</div>
+	&lt;/div&gt;
 
 3. Link JavaScript and trigger script 
 
