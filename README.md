@@ -20,7 +20,7 @@ A JavaScript module for sticking elements to the top of the page on scroll.
 		<!-- Put this right before the </body> closing tag -->
 		<script src="sticky-scroll.js"></script>
 		<script>
-			 var stickyScroll = StickScroll('.top');
+			 var stickyScroll = StickyScroll('.top');
 		</script>
 
 4. Customisable offset
