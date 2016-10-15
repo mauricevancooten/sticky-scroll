@@ -1,17 +1,17 @@
 # Sticky Scroll
 
-A JavaScript module for sticking elements to the top of the page on scroll once the reach the top of the window.
+A JavaScript module for sticking elements to the top of the page on scroll once the reach the top of the window, supports offset from the top of the page.
 
 ## Instructions
 
-`npm install sticky-scroll`
+### Browserify
 
-		var StickyScroll = require('sticky-scroll')
-		var stickyScroll = new StickyScroll('.top')
+	var StickyScroll = require('sticky-scroll')
+	var stickyScroll = new StickyScroll('.top')
 
 ### Customisable offset
 
-		var stickyScroll = StickScroll('.top', 120)
+	var stickyScroll = StickScroll('.top', 120)
 
 ### Browser Usage
 
