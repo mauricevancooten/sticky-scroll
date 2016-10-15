@@ -1,7 +1,7 @@
 {
   "name": "sticky-scroll",
   "version": "1.0.1",
-  "description": "JavaScript module for sticking elements to the top of the page on scroll.",
+  "description": "JavaScript module for sticking elements to the top of the page on scroll once they reach the top of the window, supports offset from the top of the page.",
   "main": "sticky-scroll.js",
   "directories": {
     "example": "example"
