@@ -13,6 +13,8 @@ A JavaScript module for sticking elements to the top of they page on scroll once
 
 	var stickyScroll = StickScroll('.top', 120)
 
+Second argument is the offset pixels from the top of the browser window.
+
 ### Browser Usage
 
 1. Link stylesheet
@@ -32,10 +34,7 @@ A JavaScript module for sticking elements to the top of they page on scroll once
 		<script src="sticky-scroll.js"></script>
 		<script>
 			 var stickyScroll = StickyScroll('.top')
-		</script>
-
-
-Second argument is the offset pixels from the top of the browser window.		
+		</script>		
 
 ## Licence
 
