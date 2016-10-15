@@ -4,7 +4,7 @@ A JavaScript module for sticking elements to the top of the page on scroll.
 
 ## Instructions
 
-	`npm install sticky-scroll`
+`npm install sticky-scroll`
 
 		var StickyScroll = require('sticky-scroll')
 		var stickyScroll = new StickyScroll('.top')
