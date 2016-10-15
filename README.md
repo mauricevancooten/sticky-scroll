@@ -17,18 +17,13 @@ Second argument is the offset pixels from the top of the browser window.
 
 ### Browser Usage
 
-1. Link stylesheet
-
-		<!-- Put these into the <head> -->
-		<link rel="stylesheet" href="sticky-scroll.css">
-
-2. Add Markup
+1. Add Markup
 
 		<div class="top">
 			<!-- Sticky content -->
 		</div>
 
-3. Link JavaScript and trigger script 
+2. Link JavaScript and trigger script 
 
 		<!-- Put this right before the </body> closing tag -->
 		<script src="sticky-scroll.js"></script>
