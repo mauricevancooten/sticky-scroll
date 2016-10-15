@@ -1,0 +1,28 @@
+{
+  "name": "sticky-scroll",
+  "version": "1.0.1",
+  "description": "JavaScript module for sticking elements to the top of the page on scroll.",
+  "main": "sticky-scroll.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricevancooten/sticky-scroll.git"
+  },
+  "keywords": [
+    "scroll",
+    "sticky",
+    "top",
+    "javascript"
+  ],
+  "author": "Maurice van Cooten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricevancooten/sticky-scroll/issues"
+  },
+  "homepage": "https://github.com/mauricevancooten/sticky-scroll#readme"
+}
