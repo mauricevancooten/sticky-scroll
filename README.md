@@ -1,6 +1,6 @@
 # Sticky Scroll
 
-A JavaScript module for sticking elements to the top of they page on scroll once the reach the top of the window, supports offset from the top of the page.
+A JavaScript module for sticking elements to the top of the page on scroll once they reach the top of the window, supports offset from the top of the page.
 
 ## Instructions
 
