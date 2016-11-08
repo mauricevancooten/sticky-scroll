@@ -7,11 +7,11 @@ JavaScript module for sticking elements to the top of the page on scroll once th
 ### Browserify
 ``` js
 var StickyScroll = require('sticky-scroll')
-var stickyScroll = new StickyScroll('.top')
+var stickyScroll = new StickyScroll('#top')
 ```
 ### Customisable offset
 ``` js
-var stickyScroll = StickyScroll('.top', 120)
+var stickyScroll = StickyScroll('#top', 120)
 ```
 Second argument is the number of offset pixels from the top of the browser window.
 
@@ -29,7 +29,7 @@ Second argument is the number of offset pixels from the top of the browser windo
 	<!-- Put this right before the </body> closing tag -->
 	<script src="sticky-scroll.js"></script>
 	<script>
-		var stickyScroll = StickyScroll('.top')
+		var stickyScroll = StickyScroll('#top')
 	</script>
 	```		
 
