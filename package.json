@@ -1,6 +1,6 @@
 {
   "name": "sticky-scroll",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Stick elements to the top of the page on scroll once they reach the top of the window.",
   "main": "sticky-scroll.js",
   "directories": {
