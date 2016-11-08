@@ -19,7 +19,7 @@ Second argument is the number of offset pixels from the top of the browser windo
 
 1. Add Markup
 	``` html
-	<div class="top">
+	<div id="top">
 		<!-- Sticky content -->
 	</div>
 	```
